@@ -32,9 +32,9 @@ do {
             mostrarNombres();
             break;
         case "3":
-            alert("¡Hasta luego!");
+            alert("Hasta luego");
             break;
         default:
-            alert("Opción no válida. Intenta de nuevo.");
+            alert("Opción no válida.");
     }
 } while (opcion !== "3");
